@@ -1,0 +1,6 @@
+0. There is no instruction to run this app from console, because it doesn't do anything.
+1. I assumed that every Event in file is represented by exactly one line.
+2. I stopped programming after 2 hours, then added remarks.
+3. There are no tests because I wasn't sure with the final structure of my program.
+
+More remarks are in the code.
